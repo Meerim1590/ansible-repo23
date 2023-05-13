@@ -1,3 +1,4 @@
-sh
+.ssh
 .ssh/*
+*.swp
 credentials
